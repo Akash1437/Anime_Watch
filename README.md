@@ -1,7 +1,8 @@
 # anime_watch
 
-A new Flutter project.
-
+<img src="AW_home.jpg" alt="ss" width="227" height="460">    <img src="aw_search_found.jpg" alt="ss" width="227" height="460"> 
+<br>
+ <img src="aw_s_notfound.jpg" alt="ss" width="227" height="460">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
