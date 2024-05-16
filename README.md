@@ -1,11 +1,5 @@
-# anime_watch
-<video width="320" height="240" controls>
-  <source src="
-https://github.com/Akash1437/Anime_Watch/assets/107811139/471eb03c-cebb-435a-a85b-77b9c51178e5
+# Anime Watch
 
-" type="video/mp4">
-  
-</video>
 
 <br>
 
@@ -14,15 +8,32 @@ https://github.com/Akash1437/Anime_Watch/assets/107811139/471eb03c-cebb-435a-a85
  <img src="aw_s_notfound.jpg" alt="ss" width="227" height="460">
  <br>
  
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<video width="280" height="210" controls>
+  <source src="
+
+
+https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3
+
+
+
+
+" type="video/mp4">
+
+</video>
+
+# PROJECT INSIGHTS
+
+    1. Implemented a search bar for users to input the name of the anime they want to search for.
+    2. Fetch anime data from the Jikan API using the endpoint https://api.jikan.moe/v4/anime?q=<name_here>.
+    3. Display search results that showing: Anime Name,Title,URL,Trailer thumbnail (if available)
+    4. Redirect users to the YouTube app or website to watch trailers when they click on a search result.
+    5. Use the Flutter framework for cross-platform development.
+    
+<br>
+
+
