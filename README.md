@@ -17,7 +17,7 @@
   <source src="
 
 
-https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3
+https://github.com/Akash1437/IPL-Auction-System/assets/107811139/7c1a27b0-de12-46c5-ba73-4cd713af6ce3 
 
 
 
